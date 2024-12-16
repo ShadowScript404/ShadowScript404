@@ -1,16 +1,33 @@
-## Hi there 👋
+# Yo, I am Arman Shaikh! 👋
 
-<!--
-**ShadowScript404/ShadowScript404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Frontend Developer** who loves to create innovative and clean web solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 **About Me**
+- 🎯 I focus on React, JavaScript, and modern web technologies.
+- 💻 I work with tools like **Vite**, **Tailwind CSS**, and more.
+- 🌱 Currently learning and improving my backend skills.
+- 🎨 Building projects that **solve real problems** and **look great**.
+
+---
+
+### 🔨 **Tech Stack**
+- **Languages**: JavaScript, Python, HTML, CSS  
+- **Frameworks/Libraries**: React, Tailwind CSS, Schadcn  
+- **Databases**: MySQL, MongoDB  
+- **Tools**: Git, GitHub, VS Code, WebStorm, npm, vercel, netlify  
+
+---
+
+### 📈 **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShadowScript404&show_icons=true&theme=dark)
+
+---
+
+### 🔗 **Let's Connect**
+- 🐙 [GitHub-Repo](https://github.com/ShadowScript404)
+- 
+- 🌐 [Latest-Project](https://crypto-io-j86d.vercel.app/)
+- 
+-  💬 [Email](armanshaikh5858@gmail.com)
